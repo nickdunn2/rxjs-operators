@@ -1,0 +1,25 @@
+{
+  "name": "rxjs-operators-practice",
+  "version": "1.0.0",
+  "description": "Practice Scripts Using RxJS Operators",
+  "main": "index.js",
+  "scripts": {
+    "babel": "babel-node",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Dunn",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "babel-register": "^6.26.0",
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  },
+  "dependencies": {
+    "rxjs": "^5.5.6"
+  }
+}
